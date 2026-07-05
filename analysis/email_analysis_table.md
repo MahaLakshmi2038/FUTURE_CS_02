@@ -7,7 +7,10 @@ This tracker summarizes all email samples analyzed during the **Phishing Email D
 | Sample ID | Email Type | Classification | Risk Level | Primary Indicators |
 |-----------|------------|----------------|------------|--------------------|
 | Sample 01 | Microsoft Account Verification Scam | Phishing | High | Look-alike domain, Reply-To mismatch, Urgent language, Brand impersonation, Suspicious link |
-| Sample 02 | Pending Analysis | - | - | - |
+| Sample ID | Email Type                  | Classification | Risk Level | Primary Indicators                                                                |
+
+| Sample 02 | Bank Account Security Alert | Phishing       | High       | Suspicious sender, Urgent language, Fake verification link, Credential harvesting |
+
 | Sample 03 | Pending Analysis | - | - | - |
 | Sample 04 | Pending Analysis | - | - | - |
 | Sample 05 | Pending Analysis | - | - | - |
