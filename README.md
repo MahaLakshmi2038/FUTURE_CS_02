@@ -30,13 +30,12 @@ Possible enhancements include:
 
 ## 📸 Screenshots
 
-The `screenshots/` folder can include:
+The `screenshots/` folder contains visual previews of the project, including:
 
-- Repository overview
-- Project folder structure
-- Sample analysis pages
+- Repository structure
+- Phishing email analysis
+- Professional phishing analysis report
 - Security Awareness Kit
-- Final report
 
 ---
 
