@@ -11,7 +11,10 @@ This tracker summarizes all email samples analyzed during the **Phishing Email D
 
 | Sample 02 | Bank Account Security Alert | Phishing       | High       | Suspicious sender, Urgent language, Fake verification link, Credential harvesting |
 
-| Sample 03 | Pending Analysis | - | - | - |
+| Sample ID | Email Type                | Classification | Risk Level | Primary Indicators                                                                     |
+| --------- | ------------------------- | -------------- | ---------- | -------------------------------------------------------------------------------------- |
+| Sample 03 | Business Email Compromise | Phishing (BEC) | Critical   | Executive impersonation, Urgency, Confidential payment request, Personal email address |
+
 | Sample 04 | Pending Analysis | - | - | - |
 | Sample 05 | Pending Analysis | - | - | - |
 
