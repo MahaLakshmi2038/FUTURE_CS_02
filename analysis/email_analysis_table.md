@@ -7,24 +7,18 @@ This tracker summarizes all email samples analyzed during the **Phishing Email D
 | Sample ID | Email Type | Classification | Risk Level | Primary Indicators |
 |-----------|------------|----------------|------------|--------------------|
 | Sample 01 | Microsoft Account Verification Scam | Phishing | High | Look-alike domain, Reply-To mismatch, Urgent language, Brand impersonation, Suspicious link |
-| Sample ID | Email Type                  | Classification | Risk Level | Primary Indicators                                                                |
-
-| Sample 02 | Bank Account Security Alert | Phishing       | High       | Suspicious sender, Urgent language, Fake verification link, Credential harvesting |
-
-| Sample ID | Email Type                | Classification | Risk Level | Primary Indicators                                                                     |
-| --------- | ------------------------- | -------------- | ---------- | -------------------------------------------------------------------------------------- |
-| Sample 03 | Business Email Compromise | Phishing (BEC) | Critical   | Executive impersonation, Urgency, Confidential payment request, Personal email address |
-
-| Sample 04 | Pending Analysis | - | - | - |
-| Sample 05 | Pending Analysis | - | - | - |
+| Sample 02 | Bank Account Security Alert | Phishing | High | Suspicious sender, Urgent language, Fake verification link, Credential harvesting |
+| Sample 03 | Business Email Compromise | Phishing (BEC) | Critical | Executive impersonation, Urgency, Confidential payment request, Personal email address |
+| Sample 04 | Invoice Attachment Scam | Phishing | High | ZIP attachment, Urgent payment request, Unknown sender, Malware delivery |
+| Sample 05 | Prize Giveaway Scam | Phishing | High | Fake reward, Personal information request, Suspicious link, Urgency |
 
 ---
 
 ## Summary
 
 - **Total Samples Planned:** 5
-- **Completed Analyses:** 1
-- **Remaining Analyses:** 4
+- **Completed Analyses:** 5
+- **Remaining Analyses:** 0
 
 ---
 
